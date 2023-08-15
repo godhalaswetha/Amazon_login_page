@@ -1,0 +1,69 @@
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Amazon</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+ </head>
+  
+  <body>
+
+    <header>
+<!--Amazon Image Logo-->
+      <div class="d-flex flex-row justify-content-center">
+        <div class="row">
+          <div class="col-md">
+            <img src="C:\Users\Home\Downloads\amazon.jpg" width="130" height="130"/>
+          </div><!--Col 1 End-->
+        </div><!--Row 1 End-->
+      </div><!--Container End-->
+<!--Amazon Image Logo-->
+   </header>     
+     
+      
+<!--Form-->
+      <div class="d-flex flex-row justify-content-center">
+        <div class="row">
+          <div class="col-md">
+           <form>
+             <div class="sign-in">Sign In</div>          
+  <div class="form-group">
+    <label id="words_1" for="exampleInputEmail1">Email(phone for mobile accounts)</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-   describedby="emailHelp" placeholder="Enter email">
+    <small id="emailHelp" class="form-text text-muted"></small>
+  </div>
+  <div class="form-group">
+    <label id="words_2" for="exampleInputPassword1">Password &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Forgot your password? </label>
+    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password"><br>
+    <div class="form-group">
+      <button type="button" class="btn btn-warning" id="sign-in"><a href="https://www.amazon.in/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=inflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0">Sign In</a></button>
+       <!input type="checkbox" class="form-check-input checkbox" id="exampleCheck1">
+      <p class="keep-sign-in">Keep me signed in. <a href="https://stupidlink.com">Details</a></p>
+      <!img src="C:\Users\Home\Downloads\amazon.jpg" width="100">
+    </div>
+  </div>
+  <div class="form-check">
+   
+    
+  </div>
+ <p>Don't have an account?</p>
+  <button type="button" class="btn btn-warning" id="grey-button"><a href="https://www.amazon.in/ap/register?showRememberMe=true&openid.pape.max_auth_age=0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=inflex&mobileBrowserWeblabTreatment=C&openid.return_to=https%3A%2F%2Fwww.amazon.in%2F%3Fref_%3Dnav_signin&prevRID=02G3H1FX3CSJGVNDK2JP&openid.assoc_handle=inflex&openid.mode=checkid_setup&desktopBrowserWeblabTreatment=C&prepopulatedLoginId=&failedSignInCount=0&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0">Create your own account</a></button>
+ 
+</form> 
+          </div><!--Col 1 End-->
+        </div><!--Row 1 End-->
+      </div><!--Container End-->
+<!--Form-->
+      
+      
+      
+
+<div class="d-flex flex-row justify-content-center footer_1">
+  <div class="row">
+    <div class="col">
+      <p class="conditions"><a href="https://www.amazon.in/gp/help/customer/display.html/ref=ap_desktop_footer_cou?ie=UTF8&nodeId=200545940" target="blank">Conditions of Use &nbsp &nbsp &nbsp </a>   <a href="https://www.amazon.in/gp/help/customer/display.html/ref=ap_desktop_footer_privacy_notice?ie=UTF8&nodeId=200534380" target="blank">Privacy Notice&nbsp &nbsp &nbsp </a>   <a href="https://www.amazon.in/gp/help/customer/display.html?ie=UTF8&nodeId=508510" target="blank">Help&nbsp &nbsp &nbsp </a></p>
+    </div><!--Footer Col 1 End-->
+  </div><!--Footer Row 1 End-->
+  
+    </div>
+
+  
